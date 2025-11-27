@@ -1,4 +1,7 @@
 @import url("./common.css");
+html {
+  scroll-behavior: smooth;
+}
 :root {
 }
 /* Banner css */
@@ -21,6 +24,7 @@
 }
 
 /* =====Product css===== */
+
 .hoverImg {
   overflow: hidden;
 }
