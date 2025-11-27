@@ -31,8 +31,29 @@ img {
   color: #ffffff;
   font-family: "DM Sans", sans-serif;
 }
+.headingTwo {
+  font-size: 46px;
+  font-weight: 700;
+  line-height: auto;
+  color: #262626;
+  font-family: "DM Sans", sans-serif;
+}
+.headingThree {
+  font-size: 30px;
+  font-weight: 700;
+  line-height: auto;
+  color: #767676;
+  font-family: "DM Sans", sans-serif;
+}
+.headingFour {
+  font-size: 20px;
+  font-weight: 700;
+  line-height: auto;
+  color: #767676;
+  font-family: "DM Sans", sans-serif;
+}
 .para {
-  font-size: 18px;
+  font-size: 22px;
   line-height: auto;
   color: #ffffff;
   font-family: "DM Sans", sans-serif;

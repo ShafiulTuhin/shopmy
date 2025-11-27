@@ -20,14 +20,14 @@
   background-color: #ffffff;
 }
 
-@media only screen and(width:200px) and (width: 575px) {
-  .headingOne {
-    font-size: 32px;
-  }
+/* =====Product css===== */
+.hoverImg {
+  overflow: hidden;
 }
-/* =====Medium Devices===== */
-@media only screen and(min-width:576px) and (max-width: 767px) {
-  /* .headingOne {
-    font-size: 32px;
-  } */
+.hoverImg img {
+  transition: all linear 0.4s;
+}
+.hoverImg:hover img {
+  transform: scale(1.3);
+  transition: all linear 0.4s;
 }
