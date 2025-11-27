@@ -1,0 +1,16 @@
+@import url("./common.css");
+/* =====Small Devices===== */
+@media only screen and (min-width: 200px) and (max-width: 575px) {
+  .headingOne {
+    font-size: 32px;
+  }
+  .para {
+    font-size: 15px;
+  }
+}
+/* =====Medium Devices===== */
+@media only screen and (min-width: 575px) and (max-width: 767px) {
+  .headingOne {
+    font-size: 54px;
+  }
+}

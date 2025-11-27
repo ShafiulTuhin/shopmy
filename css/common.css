@@ -1,0 +1,42 @@
+/* ======Common Css====== */
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+ul,
+li,
+ol,
+a {
+  list-style: none;
+}
+a {
+  text-decoration: none !important;
+  display: inline-block;
+}
+span {
+  display: inline-block;
+}
+img {
+  vertical-align: middle;
+}
+
+/* ======Common Class====== */
+.headingOne {
+  font-size: 80px;
+  font-weight: 700;
+  line-height: auto;
+  color: #ffffff;
+  font-family: "DM Sans", sans-serif;
+}
+.para {
+  font-size: 18px;
+  line-height: auto;
+  color: #ffffff;
+  font-family: "DM Sans", sans-serif;
+}
+.cursor {
+  cursor: pointer;
+}
